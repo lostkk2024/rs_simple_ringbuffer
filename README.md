@@ -1,4 +1,4 @@
-Learned by these urls.
+Learn from these URLs.
 
 ytb:
 
