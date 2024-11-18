@@ -1,6 +1,3 @@
-//i32 ringbuf
-
-
 struct RingBuffer<T>{
     buf: Vec<Option<T>>,
     size: usize,
